@@ -17,8 +17,9 @@ you can follow these steps:
     array (
       'path' => OC::$SERVERROOT.'/apps2',
       'url' => '/apps2',
-      'writable' => false,
+      'writable' => 
     )
     ),
 
 3. Done ;-)
+jjjj
